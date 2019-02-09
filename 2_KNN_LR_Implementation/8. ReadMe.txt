@@ -1,0 +1,13 @@
+1. LR_Code_Accuracy_each_step
+
+	1. This needs the dataset to be in the same folder as the python file to execute
+	2. It would generate Weight_xx files for each iteration and print out the prediction accuracy at each step
+	3. Please refer the Report for the expected prediction curve
+
+4.LR_Code_Final_Accuracy_only
+	1. Update the file paths in this code by searching for "open" string throughout the file.
+	2. This would give the final accuracy of the LR model after 100 iteration
+
+5. KNN_Final
+	1. Update the file paths in this code by searching for "open" string throughout the file.
+	2. This would give predicition accuracy vs no of nearest neighbours taken into classification account.
